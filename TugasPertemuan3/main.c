@@ -3,6 +3,7 @@
 //S1 Pendidikan Teknologi Informasi 2018
 //Grafika Komputer
 //Tugas Pertemuan 3
+//Membuat Kapal Sederhana
 
 #include <GL/glut.h>
 void display(void)
@@ -93,7 +94,7 @@ glutInit(&argc, argv);
 glutInitDisplayMode (GLUT_SINGLE | GLUT_RGB);
 glutInitWindowSize (600, 600);
 glutInitWindowPosition (200, 100);
-glutCreateWindow ("Project Kapal Sederhana");
+glutCreateWindow ("Kapal Sederhana");
 glutDisplayFunc(display);
 glutMainLoop();
 return 0;
