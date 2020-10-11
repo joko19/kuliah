@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602429775 source:/media/ntfs/Kuliah/Semester 5/Grafkom/code/Pertemuan4/main.c
+	<GL/glut.h>
+	<math.h>
+
