@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609225625 source:/media/ntfs/Kuliah/Semester 5/Grafkom/code/DemoProject/main.c
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
+
